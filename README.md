@@ -105,7 +105,7 @@ None the less,  Here's a quick look at some
 
 Will Produce a File
 ```
-    SampleTest.TestList.received.txt
+    SampleArrayTest.TestList.received.txt
     [0] = Dan
     [1] = James
     [2] = Jason
